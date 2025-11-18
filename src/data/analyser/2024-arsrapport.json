@@ -1,0 +1,369 @@
+{
+  "id": "2024-arsrapport",
+  "title": "Grünerløkka 2024 - Årsrapport",
+  "analysisType": "monthly",
+  "period": {
+    "type": "year",
+    "year": 2024,
+    "startDate": "2024-01-01",
+    "endDate": "2024-12-31",
+    "label": "2024"
+  },
+  "area": {
+    "id": "grunerlokka",
+    "name": "Grünerløkka",
+    "displayName": "Grünerløkka, Oslo",
+    "type": "district",
+    "coordinates": {
+      "lat": 59.9239,
+      "lng": 10.7579
+    },
+    "description": "En av Oslos mest livlige og kulturelt mangfoldige bydeler"
+  },
+  "events": [
+    {
+      "id": "oslo-pride-2024",
+      "title": "Oslo Pride 2024 (50-årsjubileum)",
+      "date": "2024-06-29",
+      "type": "cultural",
+      "impactLevel": "high",
+      "description": "70,000 deltakere i parade, Pride Park i Sofienbergparken 26-29. juni"
+    },
+    {
+      "id": "piknik-i-parken-2024",
+      "title": "Piknik i Parken",
+      "date": "2024-06-13",
+      "type": "cultural",
+      "impactLevel": "high",
+      "description": "15,000+ besøkende over 3 dager med internasjonale artister"
+    },
+    {
+      "id": "musikkfest-oslo-2024",
+      "title": "Musikkfest Oslo",
+      "date": "2024-06-01",
+      "type": "cultural",
+      "impactLevel": "high",
+      "description": "Gratis musikkfestival med 10,000+ besøkende over 50+ scener"
+    },
+    {
+      "id": "lokkadagene-mai-2024",
+      "title": "Løkkadagene (vår)",
+      "date": "2024-05-04",
+      "type": "commercial",
+      "impactLevel": "medium",
+      "description": "5,000+ besøkende, Markveien stengt for gatemarked"
+    },
+    {
+      "id": "oslo-vegetarfestival-2024",
+      "title": "Oslo Vegetarfestival",
+      "date": "2024-05-24",
+      "type": "commercial",
+      "impactLevel": "medium",
+      "description": "5,000+ besøkende, Nordens største plantebaserte matfestival"
+    },
+    {
+      "id": "8-mars-2024",
+      "title": "8. mars-markering",
+      "date": "2024-03-08",
+      "type": "social",
+      "impactLevel": "medium",
+      "description": "6,000-7,000 deltakere i demonstrasjon for kvinners rettigheter"
+    },
+    {
+      "id": "jul-pa-lokka-2024",
+      "title": "Jul på Løkka",
+      "date": "2024-11-30",
+      "type": "cultural",
+      "impactLevel": "medium",
+      "description": "2,000+ besøkende, julestjerne tent på Olaf Ryes plass"
+    }
+  ],
+  "media": [
+    {
+      "id": "tre-narrativer-analyse",
+      "title": "Tre medienarrativ definerer Grünerløkka",
+      "date": "2024",
+      "kategori": "medieanalyse",
+      "publikasjoner": ["Analyse av alle kilder"],
+      "antallArtikler": 78,
+      "sentiment": "balansert",
+      "impactLevel": "high",
+      "beskrivelse": "Mediebildet er splittet i tre parallelle fortellinger: 'Destinasjonen Løkka' (41% positiv livsstil), 'Problem-Løkka' (18% kriminalitet), og 'Hverdags-Løkka' (41% nyansert lokal). Disse tre eksisterer separat og skaper et merkevare-paradoks."
+    },
+    {
+      "id": "oslo-pride-media-coverage",
+      "title": "Oslo Pride 2024 - Omfattende mediedekning",
+      "date": "2024-06",
+      "kategori": "kultur_arrangementer",
+      "publikasjoner": ["NTB", "Fagforbundet", "Oslopolitan", "FRI", "The Local"],
+      "antallArtikler": 8,
+      "sentiment": "positiv",
+      "impactLevel": "high",
+      "beskrivelse": "Dominerende mediefokus i juni med omfattende dekning av 50-årsjubileet. 70,000 deltakere i parade, Pride Park i Sofienbergparken. Representerer 'Destinasjonen Løkka'."
+    },
+    {
+      "id": "vulkan-studenthus-suksess",
+      "title": "Vulkan Studenthus - Den usynlige suksessen",
+      "date": "2024-09",
+      "kategori": "eiendomsutvikling",
+      "publikasjoner": ["Bygg.no", "NCC", "SiO"],
+      "antallArtikler": 3,
+      "sentiment": "positiv",
+      "impactLevel": "high",
+      "beskrivelse": "209 studentboliger ferdigstilt og overlevert. NCC kaller det et 'løft for nærområdet'. Fagpressen feirer, men allmennheten vet lite. Viser at store institusjonelle prosjekter LYKKES på Grünerløkka."
+    },
+    {
+      "id": "hallengarden-vendepunkt",
+      "title": "Halléngården - 20 år senere, et håp",
+      "date": "2024-10/2024-12",
+      "kategori": "eiendomsutvikling",
+      "publikasjoner": ["VårtOslo", "Riksantikvaren"],
+      "antallArtikler": 2,
+      "sentiment": "kritisk_men_håpefull",
+      "impactLevel": "medium",
+      "beskrivelse": "Etter 20 års forfall ble eierselskapet tvangsoppløst av Oslo Tingrett (okt 2024). United Bakeries med forkjøpsrett gir håp. Symboliserer kontrasten: Vulkan lykkes, Halléngården feiler - begge forteller om byutviklingens utfordringer."
+    },
+    {
+      "id": "restauranter-hardship-vs-hipness",
+      "title": "Matbyen: Hipness vs. Hardship",
+      "date": "2024",
+      "kategori": "næringsliv",
+      "publikasjoner": ["Aftenposten Vink", "VårtOslo", "Finansavisen"],
+      "antallArtikler": 28,
+      "sentiment": "blandet",
+      "impactLevel": "medium",
+      "beskrivelse": "28 artikler om mat/drikke viser to sider: Aftenposten Vink feirer nye nisjerestauranter (Pao, Püta Madre), mens VårtOslo rapporterer om Plantasjen-nedleggelse. Tradisjonell handel skvises ut av spesialisering."
+    },
+    {
+      "id": "flerbrukshuset-fellesskap",
+      "title": "Grünerløkka Flerbrukshus - Fellesskapets hjerte",
+      "date": "2024",
+      "kategori": "sosiale_forhold",
+      "publikasjoner": ["Grünerløkka Flerbrukshus", "VårtOslo"],
+      "antallArtikler": 4,
+      "sentiment": "positiv",
+      "impactLevel": "medium",
+      "beskrivelse": "Seniorsenter, Frisklivsentral, Frivilligsentral. Tirsdagstrening, Sterk og stødig, Talentshow for unge. Dette er den positive 'Hverdags-Løkka' som sjelden når nasjonale overskrifter, men som bygger fellesskap hver dag."
+    },
+    {
+      "id": "kriminalitet-medie-ekko",
+      "title": "Kriminalitetsdekningen - Medie-ekkoet",
+      "date": "2024",
+      "kategori": "kriminalitet",
+      "publikasjoner": ["VG", "Dagbladet", "NRK", "VårtOslo"],
+      "antallArtikler": 12,
+      "sentiment": "negativ",
+      "impactLevel": "high",
+      "beskrivelse": "12 artikler om alvorlig kriminalitet (skyting, knivstikkinger, drapsforsøk). Men analyse viser 'medie-ekko': 2023-drap holdes levende gjennom rettssaker i 2024. Gamle hendelser gjenopplives, forsterker negativitet. 'Problem-Løkka' føles større enn 18%."
+    }
+  ],
+  "plaaceData": {
+    "rapportDato": "2024-12-31",
+    "datakilder": ["Plaace.ai", "Aktivitetskartlegging 2024 (156 arrangementer)", "Mediekartlegging 2024 (78 artikler)"],
+    "screenshots": [
+      {
+        "id": "konkurranse-aktorer-kart",
+        "filnavn": "Aktører i kart",
+        "path": "/images/graphs/2024/konkurranse/01-aktorer-kart.jpg",
+        "beskrivelse": "Geografisk oversikt over aktører i området",
+        "kategori": "konkurranse"
+      },
+      {
+        "id": "konkurranse-nokkeldata",
+        "filnavn": "Konkurransebildet - Nøkkeldata",
+        "path": "/images/graphs/2024/konkurranse/02-nokkeldata.jpg",
+        "beskrivelse": "Nøkkeldata for konkurranse og markedsstruktur",
+        "kategori": "konkurranse"
+      },
+      {
+        "id": "konkurranse-kjeder-uavhengige",
+        "filnavn": "Kjeder VS Uavhengige konsepter",
+        "path": "/images/graphs/2024/konkurranse/03-kjeder-vs-uavhengige.jpg",
+        "beskrivelse": "Sammenligning av kjeder og uavhengige aktører",
+        "kategori": "konkurranse"
+      },
+      {
+        "id": "konkurranse-konseptmiks",
+        "filnavn": "Konseptmiks",
+        "path": "/images/graphs/2024/konkurranse/04-konseptmiks.jpg",
+        "beskrivelse": "Fordeling av konsepter og bransjer",
+        "kategori": "konkurranse"
+      },
+      {
+        "id": "konkurranse-utvikling",
+        "filnavn": "Utvikling per år",
+        "path": "/images/graphs/2024/konkurranse/05-utvikling-per-ar.jpg",
+        "beskrivelse": "Historisk utvikling av konkurransesituasjonen",
+        "kategori": "konkurranse"
+      },
+      {
+        "id": "konkurranse-andeler",
+        "filnavn": "Over og Underandel Kommune",
+        "path": "/images/graphs/2024/konkurranse/06-over-underandel-kommune.jpg",
+        "beskrivelse": "Sammenligning med kommunenivå",
+        "kategori": "konkurranse"
+      },
+      {
+        "id": "korthandel-nokkeldata",
+        "filnavn": "Korthandel - Nøkkeldata",
+        "path": "/images/graphs/2024/korthandel/01-nokkeldata.jpg",
+        "beskrivelse": "Nøkkeldata for korthandel og transaksjoner",
+        "kategori": "korthandel"
+      },
+      {
+        "id": "korthandel-transaksjoner",
+        "filnavn": "Korthandel - Transaksjoner",
+        "path": "/images/graphs/2024/korthandel/02-transaksjoner.jpg",
+        "beskrivelse": "Detaljert oversikt over transaksjoner gjennom året",
+        "kategori": "korthandel"
+      },
+      {
+        "id": "korthandel-indeksert-vekst",
+        "filnavn": "Korthandel - Indeksert Vekst",
+        "path": "/images/graphs/2024/korthandel/03-indeksert-vekst.jpg",
+        "beskrivelse": "Indeksert vekst i korthandel over tid",
+        "kategori": "korthandel"
+      },
+      {
+        "id": "korthandel-ukedag",
+        "filnavn": "Korthandel per ukedag",
+        "path": "/images/graphs/2024/korthandel/04-per-ukedag.jpg",
+        "beskrivelse": "Fordeling av korthandel per ukedag",
+        "kategori": "korthandel"
+      },
+      {
+        "id": "bevegelse-nokkeldata",
+        "filnavn": "Bevegelse - Nøkkeldata",
+        "path": "/images/graphs/2024/bevegelse/01-nokkeldata.jpg",
+        "beskrivelse": "Nøkkeldata for bevegelse og besøkende",
+        "kategori": "bevegelse"
+      },
+      {
+        "id": "bevegelse-monster",
+        "filnavn": "Bevegelsesmønster",
+        "path": "/images/graphs/2024/bevegelse/02-bevegelsesmonster.jpg",
+        "beskrivelse": "Gjennomsnittlige daglige besøk og bevegelsesmønstre",
+        "kategori": "bevegelse"
+      },
+      {
+        "id": "bevegelse-ukedag",
+        "filnavn": "Besøk per ukedag",
+        "path": "/images/graphs/2024/bevegelse/03-besok-per-ukedag.jpg",
+        "beskrivelse": "Daglig gjennomsnitt per ukedag",
+        "kategori": "bevegelse"
+      },
+      {
+        "id": "bevegelse-time",
+        "filnavn": "Besøk per time",
+        "path": "/images/graphs/2024/bevegelse/04-besok-per-time.jpg",
+        "beskrivelse": "Timefordeling av besøk gjennom døgnet",
+        "kategori": "bevegelse"
+      },
+      {
+        "id": "besokende-alder-kjonn",
+        "filnavn": "Alders- og kjønnsfordeling",
+        "path": "/images/graphs/2024/besokende/01-alder-kjonn.jpg",
+        "beskrivelse": "Demografisk fordeling av besøkende",
+        "kategori": "besokende"
+      },
+      {
+        "id": "besokende-omrader",
+        "filnavn": "Områder besøkende kommer fra",
+        "path": "/images/graphs/2024/besokende/02-omrader.jpg",
+        "beskrivelse": "Geografisk oversikt over hvor besøkende kommer fra",
+        "kategori": "besokende"
+      },
+      {
+        "id": "internasjonal-q1",
+        "filnavn": "Internasjonalt Besøkende - Q1",
+        "path": "/images/graphs/2024/internasjonal/01-q1.jpg",
+        "beskrivelse": "Internasjonale besøkende første kvartal",
+        "kategori": "internasjonal"
+      },
+      {
+        "id": "internasjonal-q2",
+        "filnavn": "Internasjonalt Besøkende - Q2",
+        "path": "/images/graphs/2024/internasjonal/02-q2.jpg",
+        "beskrivelse": "Internasjonale besøkende andre kvartal",
+        "kategori": "internasjonal"
+      },
+      {
+        "id": "internasjonal-q3",
+        "filnavn": "Internasjonalt Besøkende - Q3",
+        "path": "/images/graphs/2024/internasjonal/03-q3.jpg",
+        "beskrivelse": "Internasjonale besøkende tredje kvartal",
+        "kategori": "internasjonal"
+      },
+      {
+        "id": "internasjonal-q4",
+        "filnavn": "Internasjonalt Besøkende - Q4",
+        "path": "/images/graphs/2024/internasjonal/04-q4.jpg",
+        "beskrivelse": "Internasjonale besøkende fjerde kvartal",
+        "kategori": "internasjonal"
+      },
+      {
+        "id": "utvikling-arlig-vekst",
+        "filnavn": "Årlig Vekst",
+        "path": "/images/graphs/2024/utvikling/01-arlig-vekst.jpg",
+        "beskrivelse": "Årlig vekst i besøkende og aktivitet",
+        "kategori": "utvikling"
+      }
+    ],
+    "nokkeldata": {
+      "befolkning": 58200,
+      "dagligTrafikk": 43500,
+      "besokende": 165000,
+      "handelsomsetning": 3970000000
+    },
+    "demografi": {
+      "totalBefolkning": 58200,
+      "aldersfordeling": {
+        "0-17": 12,
+        "18-29": 32,
+        "30-49": 38,
+        "50-66": 14,
+        "67+": 4
+      },
+      "husstandsstorrelse": 1.7
+    },
+    "marked": {
+      "omsetning": 3970000000,
+      "totalAktorer": 359,
+      "ansatte": 4005
+    },
+    "bevegelse": {
+      "dagligTrafikk": 43500,
+      "besoksmønster": {
+        "ukedag": 64,
+        "helg": 36
+      }
+    }
+  },
+  "metadata": {
+    "opprettet": "2024-12-31",
+    "sistOppdatert": "2024-12-31",
+    "status": "publisert",
+    "versjon": 2,
+    "forfatter": "Natural State",
+    "kilde": ["Plaace.ai"],
+    "heroImage": "/images/areas/grunerlokka.jpg",
+    "notater": [
+      "Komplett årsrapport for Grünerløkka 2024",
+      "359 aktører kartlagt med detaljert informasjon",
+      "Total omsetning på 3.97 milliarder NOK",
+      "Omfattende data for bevegelse, handel og besøkende",
+      "Inkluderer internasjonale besøkstall per kvartal",
+      "156 arrangementer dokumentert gjennom hele året",
+      "7 mega-arrangementer med 5000+ besøkende hver",
+      "45% av alle arrangementer gratis tilgjengelige",
+      "Juni toppunkt med 34 arrangementer (Pride, Piknik i Parken)",
+      "Fullstendig aktivitetskalender tilgjengelig i /data/aktiviteter-2024.json",
+      "78 dokumenterte medieartikler fra 2024 (estimert totalt 150-250+)",
+      "Tre tydelige medienarrativ: 'Destinasjonen Løkka' (41%), 'Problem-Løkka' (18%), 'Hverdags-Løkka' (41%)",
+      "Aftenposten Vink dominerer positiv dekning med 18 restaurantanmeldelser",
+      "Juni hadde flest artikler (16) primært på grunn av Oslo Pride",
+      "41% positiv sentiment, 36% nøytral, 18% negativ, 5% balansert",
+      "Fullstendig mediedekning tilgjengelig i /data/mediedekning-2024.json"
+    ]
+  }
+}

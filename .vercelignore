@@ -1,0 +1,15 @@
+# Vercel ignore file
+node_modules
+.next
+.env*.local
+
+# Documentation (not needed for build)
+*.md
+!README.md
+
+# Development files
+.prettierrc
+eslint.config.mjs
+
+# Stray development files
+analysis-page-component.tsx

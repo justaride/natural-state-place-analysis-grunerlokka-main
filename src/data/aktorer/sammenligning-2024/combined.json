@@ -1,0 +1,373 @@
+{
+  "metadata": {
+    "generated": "2024-12-31",
+    "source": "Plaace.ai Aktørkartlegging",
+    "totalAreas": 4,
+    "totalActors": 1166,
+    "totalRevenue": 16003,
+    "totalEmployees": 15781
+  },
+  "areas": {
+    "lokka": {
+      "displayName": "Løkka",
+      "color": "#2D5F3F",
+      "totalActors": 359,
+      "totalRevenue": 3970,
+      "totalEmployees": 4005,
+      "categoryStats": {
+        "Handel / Mat og drikke": {
+          "count": 39,
+          "omsetning": 1284,
+          "ansatte": 481
+        },
+        "Mat og opplevelser / Restaurant": {
+          "count": 131,
+          "omsetning": 1265,
+          "ansatte": 1938
+        },
+        "Mat og opplevelser / Bakeri og kafé": {
+          "count": 25,
+          "omsetning": 186,
+          "ansatte": 247
+        },
+        "Handel / Hjem og interiør": {
+          "count": 16,
+          "omsetning": 107,
+          "ansatte": 81
+        },
+        "Handel / Klesbutikker": {
+          "count": 26,
+          "omsetning": 168,
+          "ansatte": 153
+        },
+        "Handel / Annen handel": {
+          "count": 18,
+          "omsetning": 214,
+          "ansatte": 167
+        },
+        "Handel / Sport og fritid": {
+          "count": 13,
+          "omsetning": 205,
+          "ansatte": 114
+        },
+        "Tjenester / Treningssentre": {
+          "count": 5,
+          "omsetning": 149,
+          "ansatte": 226
+        },
+        "Mat og opplevelser / Pub og bar": {
+          "count": 19,
+          "omsetning": 185,
+          "ansatte": 330
+        },
+        "Tjenester / Profesjoner": {
+          "count": 10,
+          "omsetning": 56,
+          "ansatte": 53
+        },
+        "Tjenester / Skjønnhet og velvære": {
+          "count": 43,
+          "omsetning": 125,
+          "ansatte": 168
+        },
+        "Handel / Hus og bygg": {
+          "count": 3,
+          "omsetning": 14,
+          "ansatte": 19
+        },
+        "Handel / Elektrobutikker": {
+          "count": 2,
+          "omsetning": 8,
+          "ansatte": 9
+        },
+        "Tjenester / Andre tjenester": {
+          "count": 7,
+          "omsetning": 4,
+          "ansatte": 9
+        },
+        "Mat og opplevelser / Barer": {
+          "count": 1,
+          "omsetning": 0,
+          "ansatte": 10
+        },
+        "Handel / Smykker og parfyme": {
+          "count": 1,
+          "omsetning": 0,
+          "ansatte": 0
+        }
+      }
+    },
+    "bjørvika": {
+      "displayName": "Bjørvika",
+      "color": "#4A90E2",
+      "totalActors": 108,
+      "totalRevenue": 1571,
+      "totalEmployees": 2153,
+      "categoryStats": {
+        "Handel / Mat og drikke": {
+          "count": 10,
+          "omsetning": 367,
+          "ansatte": 146
+        },
+        "Mat og opplevelser / Restaurant": {
+          "count": 50,
+          "omsetning": 857,
+          "ansatte": 1562
+        },
+        "Tjenester / Treningssentre": {
+          "count": 1,
+          "omsetning": 38,
+          "ansatte": 81
+        },
+        "Mat og opplevelser / Bakeri og kafé": {
+          "count": 5,
+          "omsetning": 60,
+          "ansatte": 82
+        },
+        "Handel / Annen handel": {
+          "count": 7,
+          "omsetning": 58,
+          "ansatte": 24
+        },
+        "Mat og opplevelser / Pub og bar": {
+          "count": 7,
+          "omsetning": 87,
+          "ansatte": 166
+        },
+        "Handel / Hus og bygg": {
+          "count": 2,
+          "omsetning": 14,
+          "ansatte": 8
+        },
+        "Tjenester / Profesjoner": {
+          "count": 3,
+          "omsetning": 14,
+          "ansatte": 6
+        },
+        "Handel / Klesbutikker": {
+          "count": 9,
+          "omsetning": 19,
+          "ansatte": 26
+        },
+        "Handel / Elektrobutikker": {
+          "count": 1,
+          "omsetning": 10,
+          "ansatte": 3
+        },
+        "Tjenester / Skjønnhet og velvære": {
+          "count": 9,
+          "omsetning": 35,
+          "ansatte": 37
+        },
+        "Handel / Bil og Båt": {
+          "count": 1,
+          "omsetning": 7,
+          "ansatte": 0
+        },
+        "Handel / Hjem og interiør": {
+          "count": 1,
+          "omsetning": 4,
+          "ansatte": 6
+        },
+        "Handel / Sport og fritid": {
+          "count": 1,
+          "omsetning": 1,
+          "ansatte": 6
+        },
+        "Mat og opplevelser / Barer": {
+          "count": 1,
+          "omsetning": 0,
+          "ansatte": 0
+        }
+      }
+    },
+    "sentrum": {
+      "displayName": "Sentrum",
+      "color": "#E74C3C",
+      "totalActors": 340,
+      "totalRevenue": 5127,
+      "totalEmployees": 5417,
+      "categoryStats": {
+        "Handel / Klesbutikker": {
+          "count": 35,
+          "omsetning": 747,
+          "ansatte": 300
+        },
+        "Tjenester / Profesjoner": {
+          "count": 14,
+          "omsetning": 338,
+          "ansatte": 110
+        },
+        "Mat og opplevelser / Restaurant": {
+          "count": 113,
+          "omsetning": 1900,
+          "ansatte": 3251
+        },
+        "Handel / Sport og fritid": {
+          "count": 7,
+          "omsetning": 211,
+          "ansatte": 132
+        },
+        "Handel / Elektrobutikker": {
+          "count": 9,
+          "omsetning": 185,
+          "ansatte": 67
+        },
+        "Handel / Hjem og interiør": {
+          "count": 22,
+          "omsetning": 316,
+          "ansatte": 257
+        },
+        "Handel / Annen handel": {
+          "count": 16,
+          "omsetning": 200,
+          "ansatte": 85
+        },
+        "Handel / Mat og drikke": {
+          "count": 24,
+          "omsetning": 383,
+          "ansatte": 200
+        },
+        "Mat og opplevelser / Pub og bar": {
+          "count": 22,
+          "omsetning": 287,
+          "ansatte": 443
+        },
+        "Mat og opplevelser / Bakeri og kafé": {
+          "count": 29,
+          "omsetning": 289,
+          "ansatte": 326
+        },
+        "Handel / Hus og bygg": {
+          "count": 7,
+          "omsetning": 74,
+          "ansatte": 30
+        },
+        "Handel / Smykker og parfyme": {
+          "count": 3,
+          "omsetning": 30,
+          "ansatte": 14
+        },
+        "Tjenester / Skjønnhet og velvære": {
+          "count": 32,
+          "omsetning": 141,
+          "ansatte": 170
+        },
+        "Tjenester / Andre tjenester": {
+          "count": 2,
+          "omsetning": 10,
+          "ansatte": 0
+        },
+        "Handel / Bil og Båt": {
+          "count": 1,
+          "omsetning": 6,
+          "ansatte": 0
+        },
+        "Tjenester / Treningssentre": {
+          "count": 1,
+          "omsetning": 6,
+          "ansatte": 14
+        },
+        "Mat og opplevelser / Barer": {
+          "count": 3,
+          "omsetning": 4,
+          "ansatte": 18
+        }
+      }
+    },
+    "majorstuen": {
+      "displayName": "Majorstuen",
+      "color": "#9B59B6",
+      "totalActors": 359,
+      "totalRevenue": 5335,
+      "totalEmployees": 4206,
+      "categoryStats": {
+        "Handel / Klesbutikker": {
+          "count": 49,
+          "omsetning": 997,
+          "ansatte": 628
+        },
+        "Handel / Mat og drikke": {
+          "count": 37,
+          "omsetning": 1366,
+          "ansatte": 517
+        },
+        "Handel / Sport og fritid": {
+          "count": 11,
+          "omsetning": 370,
+          "ansatte": 228
+        },
+        "Handel / Elektrobutikker": {
+          "count": 9,
+          "omsetning": 236,
+          "ansatte": 77
+        },
+        "Handel / Annen handel": {
+          "count": 25,
+          "omsetning": 387,
+          "ansatte": 256
+        },
+        "Mat og opplevelser / Restaurant": {
+          "count": 66,
+          "omsetning": 746,
+          "ansatte": 1136
+        },
+        "Handel / Hus og bygg": {
+          "count": 6,
+          "omsetning": 115,
+          "ansatte": 62
+        },
+        "Tjenester / Treningssentre": {
+          "count": 7,
+          "omsetning": 114,
+          "ansatte": 276
+        },
+        "Mat og opplevelser / Pub og bar": {
+          "count": 3,
+          "omsetning": 57,
+          "ansatte": 82
+        },
+        "Tjenester / Profesjoner": {
+          "count": 17,
+          "omsetning": 165,
+          "ansatte": 135
+        },
+        "Handel / Hjem og interiør": {
+          "count": 27,
+          "omsetning": 296,
+          "ansatte": 184
+        },
+        "Handel / Smykker og parfyme": {
+          "count": 9,
+          "omsetning": 122,
+          "ansatte": 103
+        },
+        "Tjenester / Skjønnhet og velvære": {
+          "count": 65,
+          "omsetning": 198,
+          "ansatte": 252
+        },
+        "Mat og opplevelser / Bakeri og kafé": {
+          "count": 20,
+          "omsetning": 131,
+          "ansatte": 234
+        },
+        "Handel / Bil og Båt": {
+          "count": 1,
+          "omsetning": 14,
+          "ansatte": 14
+        },
+        "Tjenester / Andre tjenester": {
+          "count": 5,
+          "omsetning": 18,
+          "ansatte": 17
+        },
+        "Mat og opplevelser / Barer": {
+          "count": 2,
+          "omsetning": 3,
+          "ansatte": 5
+        }
+      }
+    }
+  }
+}

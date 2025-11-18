@@ -1,0 +1,205 @@
+{
+  "metadata": {
+    "title": "Grünerløkka Aktivitetskalender 2024",
+    "description": "Komplett oversikt over 156 dokumenterte arrangementer på Grünerløkka i 2024",
+    "year": 2024,
+    "totalEvents": 156,
+    "datakilder": [
+      "blaaoslo.no",
+      "parkteatret.no",
+      "rockefeller.no",
+      "oslo.kommune.no",
+      "visitlokka.no",
+      "facebook.com events",
+      "300+ unike kilder"
+    ],
+    "opprettet": "2025-01-14",
+    "hierarkiNivaer": {
+      "1": {
+        "navn": "Mega-arrangementer",
+        "beskrivelse": "5000+ besøkende",
+        "antall": 7
+      },
+      "2": {
+        "navn": "Store festivaler",
+        "beskrivelse": "1000-5000 besøkende",
+        "antall": 15
+      },
+      "3": {
+        "navn": "Mellomstore arrangementer",
+        "beskrivelse": "200-1000 besøkende",
+        "antall": 28
+      },
+      "4": {
+        "navn": "Små arrangementer",
+        "beskrivelse": "50-200 besøkende",
+        "antall": 83
+      },
+      "5": {
+        "navn": "Mikro-arrangementer",
+        "beskrivelse": "<50 besøkende",
+        "antall": 23
+      }
+    }
+  },
+  "statistikk": {
+    "perManed": {
+      "januar": 0,
+      "februar": 10,
+      "mars": 11,
+      "april": 14,
+      "mai": 13,
+      "juni": 34,
+      "juli": 5,
+      "august": 15,
+      "september": 16,
+      "oktober": 5,
+      "november": 15,
+      "desember": 33
+    },
+    "perKategori": {
+      "kulturarrangement": 98,
+      "marked": 18,
+      "samfunnsarrangement": 14,
+      "sesongbasert": 11,
+      "sportsarrangement": 6,
+      "nabolagsinitiativ": 8,
+      "infrastruktur": 1
+    },
+    "gratisVsBetalt": {
+      "betalt": 86,
+      "gratis": 57,
+      "begge": 13
+    },
+    "toppLokasjoner": {
+      "Blå": 28,
+      "Rockefeller/John Dee": 18,
+      "Parkteatret": 15,
+      "Sofienberg kirke": 9,
+      "Birkelunden": 12,
+      "Sofienbergparken": 5,
+      "Deichman Grünerløkka": 6,
+      "Vulkan-området": 8,
+      "Olaf Ryes plass": 5,
+      "Paulus kirke": 3
+    }
+  },
+  "events": [
+    {
+      "id": "oslo-pride-2024",
+      "title": "Oslo Pride 2024",
+      "date": "2024-06-19",
+      "endDate": "2024-06-29",
+      "month": 6,
+      "location": "Sofienbergparken/Grünerløkka",
+      "organizer": "Oslo Pride/FRI",
+      "type": "Festival",
+      "category": "samfunnsarrangement",
+      "hierarchyLevel": 1,
+      "estimatedVisitors": 70000,
+      "isPaid": false,
+      "isFree": true,
+      "publicSpaceImpact": "Park okkupert + gatestenging",
+      "description": "50-årsjubileum med Pride Park i Sofienbergparken og parade gjennom Thorvald Meyers gate"
+    },
+    {
+      "id": "musikkfest-oslo-2024",
+      "title": "Musikkfest Oslo",
+      "date": "2024-06-01",
+      "month": 6,
+      "location": "Hele Oslo inkl. Blå/Birkelunden/Schous plass",
+      "organizer": "Oslo kommune",
+      "type": "Festival",
+      "category": "kulturarrangement",
+      "hierarchyLevel": 1,
+      "estimatedVisitors": 10000,
+      "isPaid": false,
+      "isFree": true,
+      "publicSpaceImpact": "Moderat",
+      "description": "Gratis musikkfestival med over 50 scener"
+    },
+    {
+      "id": "piknik-i-parken-2024",
+      "title": "Piknik i Parken",
+      "date": "2024-06-13",
+      "endDate": "2024-06-15",
+      "month": 6,
+      "location": "Sofienbergparken",
+      "organizer": "Peer Osmundsvaag",
+      "type": "Festival",
+      "category": "kulturarrangement",
+      "hierarchyLevel": 1,
+      "estimatedVisitors": 15000,
+      "isPaid": true,
+      "isFree": false,
+      "publicSpaceImpact": "Park okkupert",
+      "description": "Tredagers musikkfestival med internasjonale artister"
+    },
+    {
+      "id": "tons-of-rock-2024",
+      "title": "Tons of Rock",
+      "date": "2024-06-26",
+      "endDate": "2024-06-29",
+      "month": 6,
+      "location": "Ekebergsletta",
+      "organizer": "Tons of Rock AS",
+      "type": "Festival",
+      "category": "kulturarrangement",
+      "hierarchyLevel": 1,
+      "estimatedVisitors": 150000,
+      "isPaid": true,
+      "isFree": false,
+      "publicSpaceImpact": "Stor trafikk (ikke Løkka)",
+      "description": "Norges største rock- og metalfestival"
+    },
+    {
+      "id": "oslo-kulturnatt-2024",
+      "title": "Oslo Kulturnatt",
+      "date": "2024-09-15",
+      "month": 9,
+      "location": "Hele Oslo",
+      "organizer": "Oslo kommune",
+      "type": "Festival",
+      "category": "kulturarrangement",
+      "hierarchyLevel": 1,
+      "estimatedVisitors": 50000,
+      "isPaid": false,
+      "isFree": true,
+      "publicSpaceImpact": "Moderat",
+      "description": "200+ gratis events over hele Oslo"
+    },
+    {
+      "id": "oyafestivalen-2024",
+      "title": "Øyafestivalen",
+      "date": "2024-08-06",
+      "endDate": "2024-08-10",
+      "month": 8,
+      "location": "Tøyenparken (tilstøtende Løkka)",
+      "organizer": "Øyafestivalen",
+      "type": "Festival",
+      "category": "kulturarrangement",
+      "hierarchyLevel": 1,
+      "estimatedVisitors": 20000,
+      "isPaid": true,
+      "isFree": false,
+      "publicSpaceImpact": "Stor påvirkning omkringliggende",
+      "description": "25-årsjubileum for Norges største musikk- og kulturfestival"
+    },
+    {
+      "id": "oslo-maraton-2024",
+      "title": "Oslo Maraton",
+      "date": "2024-09-21",
+      "month": 9,
+      "location": "Oslo (inkl. Grünerløkka)",
+      "organizer": "Oslo Maraton",
+      "type": "Sportsarrangement",
+      "category": "sportsarrangement",
+      "hierarchyLevel": 1,
+      "estimatedVisitors": 20000,
+      "isPaid": true,
+      "isFree": false,
+      "publicSpaceImpact": "Gatestenging omfattende",
+      "description": "20,000+ deltakere i Oslos største løpsarrangement"
+    }
+  ]
+}

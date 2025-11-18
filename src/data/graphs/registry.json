@@ -1,0 +1,333 @@
+{
+  "version": "1.0.0",
+  "lastUpdated": "2025-11-11",
+  "graphs": [
+    {
+      "id": "grunerlokka-bevegelse-nokkeldata-2024",
+      "title": "Bevegelse Nøkkeldata 2024",
+      "path": "/images/graphs/2024/bevegelse/nokkeldata.jpg",
+      "category": "bevegelse",
+      "type": "infographic",
+      "year": 2024,
+      "description": "Nøkkeldata for bevegelse og besøkende i Grünerløkka for hele 2024",
+      "dataSource": ["Plaace.ai"],
+      "tags": ["bevegelse", "nøkkeldata", "besøkende", "2024", "overview"],
+      "altText": "Infografikk med nøkkeltall for bevegelse og besøkende i Grünerløkka 2024",
+      "metadata": {
+        "created": "2024-12-01",
+        "format": "jpg"
+      }
+    },
+    {
+      "id": "grunerlokka-bevegelse-bevegelsesmønster-2024",
+      "title": "Bevegelsesmønster (Gjennomsnittlig daglige besøk) 2024",
+      "path": "/images/graphs/2024/bevegelse/bevegelsesmønster.jpg",
+      "category": "bevegelse",
+      "type": "chart",
+      "year": 2024,
+      "description": "Gjennomsnittlige daglige besøk og bevegelsesmønstre gjennom 2024",
+      "dataSource": ["Plaace.ai"],
+      "tags": ["bevegelse", "daglige besøk", "mønster", "2024"],
+      "altText": "Graf som viser gjennomsnittlig daglige besøk og bevegelsesmønstre i Grünerløkka 2024",
+      "relatedGraphs": ["grunerlokka-bevegelse-nokkeldata-2024"],
+      "metadata": {
+        "created": "2024-12-01",
+        "format": "jpg"
+      }
+    },
+    {
+      "id": "grunerlokka-bevegelse-besok-per-time-2024",
+      "title": "Besøk per time i tidsperioden (Daglig gjennomsnitt) 2024",
+      "path": "/images/graphs/2024/bevegelse/besok-per-time.jpg",
+      "category": "bevegelse",
+      "type": "chart",
+      "year": 2024,
+      "description": "Timefordeling av besøk gjennom døgnet, daglig gjennomsnitt for 2024",
+      "dataSource": ["Plaace.ai"],
+      "tags": ["bevegelse", "timesfordeling", "daglig", "2024"],
+      "altText": "Søylediagram som viser besøk per time gjennom døgnet i Grünerløkka 2024",
+      "relatedGraphs": ["grunerlokka-bevegelse-besok-per-ukedag-2024"],
+      "metadata": {
+        "created": "2024-12-01",
+        "format": "jpg"
+      }
+    },
+    {
+      "id": "grunerlokka-bevegelse-besok-per-ukedag-2024",
+      "title": "Besøk per ukedag i tidsperioden (Daglig gjennomsnitt) 2024",
+      "path": "/images/graphs/2024/bevegelse/besok-per-ukedag.jpg",
+      "category": "bevegelse",
+      "type": "chart",
+      "year": 2024,
+      "description": "Ukefordeling av besøk, daglig gjennomsnitt for 2024",
+      "dataSource": ["Plaace.ai"],
+      "tags": ["bevegelse", "ukedag", "daglig", "2024"],
+      "altText": "Søylediagram som viser besøk per ukedag i Grünerløkka 2024",
+      "relatedGraphs": ["grunerlokka-bevegelse-besok-per-time-2024"],
+      "metadata": {
+        "created": "2024-12-01",
+        "format": "jpg"
+      }
+    },
+    {
+      "id": "grunerlokka-bevegelse-alder-kjonn-2024",
+      "title": "Alders- og kjønnsfordeling (Besøkende) 2024",
+      "path": "/images/graphs/2024/bevegelse/alder-kjonn-fordeling.jpg",
+      "category": "bevegelse",
+      "type": "chart",
+      "year": 2024,
+      "description": "Fordeling av besøkende etter alder og kjønn for 2024",
+      "dataSource": ["Plaace.ai"],
+      "tags": ["demografi", "alder", "kjønn", "besøkende", "2024"],
+      "altText": "Diagram som viser alders- og kjønnsfordeling av besøkende i Grünerløkka 2024",
+      "metadata": {
+        "created": "2024-12-01",
+        "format": "jpg"
+      }
+    },
+    {
+      "id": "grunerlokka-bevegelse-arlig-vekst-2024",
+      "title": "Årlig Vekst 2024",
+      "path": "/images/graphs/2024/bevegelse/arlig-vekst.jpg",
+      "category": "bevegelse",
+      "type": "chart",
+      "year": 2024,
+      "description": "Årlig vekst i besøkende og aktivitet sammenlignet med tidligere år",
+      "dataSource": ["Plaace.ai"],
+      "tags": ["vekst", "trend", "årlig", "2024"],
+      "altText": "Graf som viser årlig vekst i besøkende til Grünerløkka 2024",
+      "relatedGraphs": ["grunerlokka-bevegelse-indeksert-vekst-2024"],
+      "metadata": {
+        "created": "2024-12-01",
+        "format": "jpg"
+      }
+    },
+    {
+      "id": "grunerlokka-bevegelse-indeksert-vekst-2024",
+      "title": "Indeksert Vekst 2024",
+      "path": "/images/graphs/2024/bevegelse/indeksert-vekst.jpg",
+      "category": "bevegelse",
+      "type": "chart",
+      "year": 2024,
+      "description": "Indeksert vekst i besøkende over tid",
+      "dataSource": ["Plaace.ai"],
+      "tags": ["vekst", "indeksert", "trend", "2024"],
+      "altText": "Linjediagram som viser indeksert vekst i Grünerløkka 2024",
+      "relatedGraphs": ["grunerlokka-bevegelse-arlig-vekst-2024"],
+      "metadata": {
+        "created": "2024-12-01",
+        "format": "jpg"
+      }
+    },
+    {
+      "id": "grunerlokka-marked-korthandel-nokkeldata-2024",
+      "title": "Korthandel Nøkkeldata 2024",
+      "path": "/images/graphs/2024/marked/korthandel-nokkeldata.jpg",
+      "category": "marked",
+      "type": "infographic",
+      "year": 2024,
+      "description": "Nøkkeldata for korthandel og transaksjoner i Grünerløkka 2024",
+      "dataSource": ["Plaace.ai"],
+      "tags": ["korthandel", "transaksjoner", "nøkkeldata", "marked", "2024"],
+      "altText": "Infografikk med nøkkeltall for korthandel i Grünerløkka 2024",
+      "metadata": {
+        "created": "2024-12-01",
+        "format": "jpg"
+      }
+    },
+    {
+      "id": "grunerlokka-marked-korthandel-detaljer-2024",
+      "title": "Korthandel 2024",
+      "path": "/images/graphs/2024/marked/korthandel-detaljer.jpg",
+      "category": "marked",
+      "type": "chart",
+      "year": 2024,
+      "description": "Detaljert oversikt over korthandel og transaksjoner gjennom året",
+      "dataSource": ["Plaace.ai"],
+      "tags": ["korthandel", "transaksjoner", "detaljer", "marked", "2024"],
+      "altText": "Detaljert graf over korthandel i Grünerløkka 2024",
+      "relatedGraphs": ["grunerlokka-marked-korthandel-nokkeldata-2024"],
+      "metadata": {
+        "created": "2024-12-01",
+        "format": "jpg"
+      }
+    },
+    {
+      "id": "grunerlokka-marked-korthandel-ukedag-2024",
+      "title": "Korthandel per ukedag 2024",
+      "path": "/images/graphs/2024/marked/korthandel-per-ukedag.jpg",
+      "category": "marked",
+      "type": "chart",
+      "year": 2024,
+      "description": "Fordeling av korthandel per ukedag",
+      "dataSource": ["Plaace.ai"],
+      "tags": ["korthandel", "ukedag", "marked", "2024"],
+      "altText": "Søylediagram som viser korthandel per ukedag i Grünerløkka 2024",
+      "relatedGraphs": ["grunerlokka-marked-korthandel-detaljer-2024"],
+      "metadata": {
+        "created": "2024-12-01",
+        "format": "jpg"
+      }
+    },
+    {
+      "id": "grunerlokka-geografi-omrader-besokende-2024",
+      "title": "Områder besøkende kommer fra (Totalt) 2024",
+      "path": "/images/graphs/2024/geografi/omrader-besokende.jpg",
+      "category": "bevegelse",
+      "type": "map",
+      "year": 2024,
+      "description": "Geografisk oversikt over hvor besøkende til Grünerløkka kommer fra",
+      "dataSource": ["Plaace.ai"],
+      "tags": ["geografi", "opprinnelse", "besøkende", "kart", "2024"],
+      "altText": "Kart som viser geografiske områder besøkende kommer fra til Grünerløkka 2024",
+      "metadata": {
+        "created": "2024-12-01",
+        "format": "jpg"
+      }
+    },
+    {
+      "id": "grunerlokka-geografi-topp5-land-q1-2024",
+      "title": "Topp 5 Land (Besøkende) Q1 2024",
+      "path": "/images/graphs/2024/geografi/kvartal/q1/topp-5-land.jpg",
+      "category": "bevegelse",
+      "type": "chart",
+      "year": 2024,
+      "month": 3,
+      "description": "Topp 5 land besøkende kom fra i Q1 2024 (prosentandel)",
+      "dataSource": ["Plaace.ai"],
+      "tags": ["internasjonale", "land", "q1", "besøkende", "2024"],
+      "altText": "Søylediagram som viser topp 5 land besøkende kom fra i Q1 2024",
+      "relatedGraphs": ["grunerlokka-geografi-topp20-land-q1-2024", "grunerlokka-geografi-topp5-land-q2-2024"],
+      "metadata": {
+        "created": "2024-12-01",
+        "format": "jpg"
+      }
+    },
+    {
+      "id": "grunerlokka-geografi-topp20-land-q1-2024",
+      "title": "Topp 20 Land (Besøkende) Q1 2024",
+      "path": "/images/graphs/2024/geografi/kvartal/q1/topp-20-land.jpg",
+      "category": "bevegelse",
+      "type": "chart",
+      "year": 2024,
+      "month": 3,
+      "description": "Topp 20 land besøkende kom fra i Q1 2024 (prosentandel)",
+      "dataSource": ["Plaace.ai"],
+      "tags": ["internasjonale", "land", "q1", "besøkende", "2024"],
+      "altText": "Søylediagram som viser topp 20 land besøkende kom fra i Q1 2024",
+      "relatedGraphs": ["grunerlokka-geografi-topp5-land-q1-2024"],
+      "metadata": {
+        "created": "2024-12-01",
+        "format": "jpg"
+      }
+    },
+    {
+      "id": "grunerlokka-geografi-topp5-land-q2-2024",
+      "title": "Topp 5 Land (Besøkende) Q2 2024",
+      "path": "/images/graphs/2024/geografi/kvartal/q2/topp-5-land.jpg",
+      "category": "bevegelse",
+      "type": "chart",
+      "year": 2024,
+      "month": 6,
+      "description": "Topp 5 land besøkende kom fra i Q2 2024 (prosentandel)",
+      "dataSource": ["Plaace.ai"],
+      "tags": ["internasjonale", "land", "q2", "besøkende", "2024"],
+      "altText": "Søylediagram som viser topp 5 land besøkende kom fra i Q2 2024",
+      "relatedGraphs": ["grunerlokka-geografi-topp20-land-q2-2024", "grunerlokka-geografi-topp5-land-q1-2024", "grunerlokka-geografi-topp5-land-q3-2024"],
+      "metadata": {
+        "created": "2024-12-01",
+        "format": "jpg"
+      }
+    },
+    {
+      "id": "grunerlokka-geografi-topp20-land-q2-2024",
+      "title": "Topp 20 Land (Besøkende) Q2 2024",
+      "path": "/images/graphs/2024/geografi/kvartal/q2/topp-20-land.jpg",
+      "category": "bevegelse",
+      "type": "chart",
+      "year": 2024,
+      "month": 6,
+      "description": "Topp 20 land besøkende kom fra i Q2 2024 (prosentandel)",
+      "dataSource": ["Plaace.ai"],
+      "tags": ["internasjonale", "land", "q2", "besøkende", "2024"],
+      "altText": "Søylediagram som viser topp 20 land besøkende kom fra i Q2 2024",
+      "relatedGraphs": ["grunerlokka-geografi-topp5-land-q2-2024"],
+      "metadata": {
+        "created": "2024-12-01",
+        "format": "jpg"
+      }
+    },
+    {
+      "id": "grunerlokka-geografi-topp5-land-q3-2024",
+      "title": "Topp 5 Land (Besøkende) Q3 2024",
+      "path": "/images/graphs/2024/geografi/kvartal/q3/topp-5-land.jpg",
+      "category": "bevegelse",
+      "type": "chart",
+      "year": 2024,
+      "month": 9,
+      "description": "Topp 5 land besøkende kom fra i Q3 2024 (prosentandel)",
+      "dataSource": ["Plaace.ai"],
+      "tags": ["internasjonale", "land", "q3", "besøkende", "2024"],
+      "altText": "Søylediagram som viser topp 5 land besøkende kom fra i Q3 2024",
+      "relatedGraphs": ["grunerlokka-geografi-topp20-land-q3-2024", "grunerlokka-geografi-topp5-land-q2-2024", "grunerlokka-geografi-topp5-land-q4-2024"],
+      "metadata": {
+        "created": "2024-12-01",
+        "format": "jpg"
+      }
+    },
+    {
+      "id": "grunerlokka-geografi-topp20-land-q3-2024",
+      "title": "Topp 20 Land (Besøkende) Q3 2024",
+      "path": "/images/graphs/2024/geografi/kvartal/q3/topp-20-land.jpg",
+      "category": "bevegelse",
+      "type": "chart",
+      "year": 2024,
+      "month": 9,
+      "description": "Topp 20 land besøkende kom fra i Q3 2024 (prosentandel)",
+      "dataSource": ["Plaace.ai"],
+      "tags": ["internasjonale", "land", "q3", "besøkende", "2024"],
+      "altText": "Søylediagram som viser topp 20 land besøkende kom fra i Q3 2024",
+      "relatedGraphs": ["grunerlokka-geografi-topp5-land-q3-2024"],
+      "metadata": {
+        "created": "2024-12-01",
+        "format": "jpg"
+      }
+    },
+    {
+      "id": "grunerlokka-geografi-topp5-land-q4-2024",
+      "title": "Topp 5 Land (Besøkende) Q4 2024",
+      "path": "/images/graphs/2024/geografi/kvartal/q4/topp-5-land.jpg",
+      "category": "bevegelse",
+      "type": "chart",
+      "year": 2024,
+      "month": 12,
+      "description": "Topp 5 land besøkende kom fra i Q4 2024 (prosentandel)",
+      "dataSource": ["Plaace.ai"],
+      "tags": ["internasjonale", "land", "q4", "besøkende", "2024"],
+      "altText": "Søylediagram som viser topp 5 land besøkende kom fra i Q4 2024",
+      "relatedGraphs": ["grunerlokka-geografi-topp20-land-q4-2024", "grunerlokka-geografi-topp5-land-q3-2024"],
+      "metadata": {
+        "created": "2024-12-01",
+        "format": "jpg"
+      }
+    },
+    {
+      "id": "grunerlokka-geografi-topp20-land-q4-2024",
+      "title": "Topp 20 Land (Besøkende) Q4 2024",
+      "path": "/images/graphs/2024/geografi/kvartal/q4/topp-20-land.jpg",
+      "category": "bevegelse",
+      "type": "chart",
+      "year": 2024,
+      "month": 12,
+      "description": "Topp 20 land besøkende kom fra i Q4 2024 (prosentandel)",
+      "dataSource": ["Plaace.ai"],
+      "tags": ["internasjonale", "land", "q4", "besøkende", "2024"],
+      "altText": "Søylediagram som viser topp 20 land besøkende kom fra i Q4 2024",
+      "relatedGraphs": ["grunerlokka-geografi-topp5-land-q4-2024"],
+      "metadata": {
+        "created": "2024-12-01",
+        "format": "jpg"
+      }
+    }
+  ]
+}
