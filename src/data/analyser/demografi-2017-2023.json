@@ -1,0 +1,95 @@
+{
+  "id": "demografi-2017-2023",
+  "title": "Demografi 2017-2023",
+  "analysisType": "comparative",
+  "period": {
+    "type": "multi-year",
+    "startYear": 2017,
+    "endYear": 2023,
+    "startDate": "2017-01-01",
+    "endDate": "2023-12-31",
+    "label": "2017-2023"
+  },
+  "area": {
+    "id": "grunerlokka-demografi",
+    "name": "Grünerløkka",
+    "displayName": "Thorvald Meyers gate 40B område",
+    "type": "district",
+    "areaSize": "1.14 km²",
+    "coordinates": {
+      "lat": 59.9239,
+      "lng": 10.7579
+    },
+    "description": "Demografisk analyse av befolkningsutvikling, aldersfordeling, inntekt og husholdningssammensetning"
+  },
+  "description": "Omfattende demografisk analyse av Grünerløkka-området (2017-2023) med fokus på befolkningsutvikling, alderssammensetning, inntektsfordeling og husholdningstyper. Dataene viser en befolkningsvekst på 4% og gir innsikt i områdets demografiske profil.",
+  "tags": [
+    "demografi",
+    "befolkning",
+    "inntekt",
+    "husholdninger",
+    "aldersfordeling"
+  ],
+  "dataSource": "Plaace.ai / SSB",
+  "metadata": {
+    "status": "publisert",
+    "version": "1.0",
+    "author": "Natural State",
+    "createdAt": "2025-11-18",
+    "updatedAt": "2025-11-18",
+    "heroImage": "/images/grunerlokka-hero.jpg",
+    "sistOppdatert": "2025-11-18",
+    "notater": [
+      "Omfattende demografisk analyse av Grünerløkka-området med fokus på utviklingstrender fra 2017 til 2023.",
+      "Befolkningsvekst på 4% over perioden viser områdets fortsatte attraktivitet.",
+      "Data basert på offisiell statistikk fra SSB og Plaace.ai for området rundt Thorvald Meyers gate 40B (1.14 km²)."
+    ]
+  },
+  "plaaceData": {
+    "datakilder": ["Plaace.ai", "SSB (Statistisk sentralbyrå)"]
+  },
+  "highlights": [
+    {
+      "title": "Befolkningsvekst",
+      "value": "+4.0%",
+      "description": "Befolkningen har vokst fra 21,873 i 2017 til 22,746 i 2023"
+    },
+    {
+      "title": "Aldersgruppe 23-34 år",
+      "value": "~40%",
+      "description": "Største aldersgruppe, reflekterer områdets attraktivitet for unge voksne"
+    },
+    {
+      "title": "Aleneboende",
+      "value": "~70%",
+      "description": "Dominerende husholdningstype, typisk for urbane sentrumsområder"
+    },
+    {
+      "title": "Inntektsspredning",
+      "value": "12 nivåer",
+      "description": "Bred inntektsfordeling fra 0 til 1.5M+ NOK årlig"
+    }
+  ],
+  "visualizations": [
+    {
+      "type": "line-chart",
+      "title": "Befolkningsutvikling 2017-2023",
+      "description": "Viser den jevne befolkningsveksten over perioden med trendlinje"
+    },
+    {
+      "type": "age-pyramid",
+      "title": "Aldersfordeling",
+      "description": "Kjønnsfordelt alderspyramide for hvert år"
+    },
+    {
+      "type": "bar-chart",
+      "title": "Inntektsfordeling",
+      "description": "Sammenligning av inntektsbraketter på tvers av år"
+    },
+    {
+      "type": "pie-chart",
+      "title": "Husholdningssammensetning",
+      "description": "Fordeling av husholdningstyper med utviklingstrender"
+    }
+  ]
+}

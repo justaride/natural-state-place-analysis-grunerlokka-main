@@ -1,0 +1,1485 @@
+{
+  "metadata": {
+    "title": "Demografi 2017-2023",
+    "area": "Thorvald Meyers gate 40B",
+    "areaSize": "1.14 km²",
+    "timeRange": "2017-2023",
+    "source": "Plaace.ai / SSB",
+    "generatedAt": "2025-11-18"
+  },
+  "populationOverTime": [
+    {
+      "year": 2017,
+      "population": 21873,
+      "trendline": 26247.6
+    },
+    {
+      "year": 2018,
+      "population": 22050,
+      "trendline": 26460.0
+    },
+    {
+      "year": 2019,
+      "population": 22203,
+      "trendline": 26643.6
+    },
+    {
+      "year": 2020,
+      "population": 22202,
+      "trendline": 26642.399999999998
+    },
+    {
+      "year": 2021,
+      "population": 22294,
+      "trendline": 26752.8
+    },
+    {
+      "year": 2022,
+      "population": 22430,
+      "trendline": 26916.0
+    },
+    {
+      "year": 2023,
+      "population": 22746,
+      "trendline": 27295.2
+    }
+  ],
+  "ageDistribution": [
+    {
+      "year": 2017,
+      "ageGroups": [
+        {
+          "ageGroup": "0-5",
+          "male": 660,
+          "female": 597
+        },
+        {
+          "ageGroup": "6-12",
+          "male": 370,
+          "female": 419
+        },
+        {
+          "ageGroup": "13-15",
+          "male": 139,
+          "female": 130
+        },
+        {
+          "ageGroup": "16-18",
+          "male": 120,
+          "female": 127
+        },
+        {
+          "ageGroup": "19-23",
+          "male": 893,
+          "female": 1174
+        },
+        {
+          "ageGroup": "23-34",
+          "male": 4400,
+          "female": 4522
+        },
+        {
+          "ageGroup": "35-44",
+          "male": 2209,
+          "female": 1574
+        },
+        {
+          "ageGroup": "45-54",
+          "male": 1268,
+          "female": 877
+        },
+        {
+          "ageGroup": "55-64",
+          "male": 668,
+          "female": 554
+        },
+        {
+          "ageGroup": "65-74",
+          "male": 381,
+          "female": 346
+        },
+        {
+          "ageGroup": "75-84",
+          "male": 116,
+          "female": 137
+        },
+        {
+          "ageGroup": "85+",
+          "male": 37,
+          "female": 98
+        }
+      ]
+    },
+    {
+      "year": 2018,
+      "ageGroups": [
+        {
+          "ageGroup": "0-5",
+          "male": 606,
+          "female": 570
+        },
+        {
+          "ageGroup": "6-12",
+          "male": 382,
+          "female": 419
+        },
+        {
+          "ageGroup": "13-15",
+          "male": 134,
+          "female": 145
+        },
+        {
+          "ageGroup": "16-18",
+          "male": 131,
+          "female": 124
+        },
+        {
+          "ageGroup": "19-23",
+          "male": 888,
+          "female": 1144
+        },
+        {
+          "ageGroup": "23-34",
+          "male": 4476,
+          "female": 4650
+        },
+        {
+          "ageGroup": "35-44",
+          "male": 2211,
+          "female": 1533
+        },
+        {
+          "ageGroup": "45-54",
+          "male": 1288,
+          "female": 913
+        },
+        {
+          "ageGroup": "55-64",
+          "male": 684,
+          "female": 577
+        },
+        {
+          "ageGroup": "65-74",
+          "male": 380,
+          "female": 365
+        },
+        {
+          "ageGroup": "75-84",
+          "male": 128,
+          "female": 145
+        },
+        {
+          "ageGroup": "85+",
+          "male": 47,
+          "female": 96
+        }
+      ]
+    },
+    {
+      "year": 2019,
+      "ageGroups": [
+        {
+          "ageGroup": "0-5",
+          "male": 565,
+          "female": 554
+        },
+        {
+          "ageGroup": "6-12",
+          "male": 389,
+          "female": 417
+        },
+        {
+          "ageGroup": "13-15",
+          "male": 129,
+          "female": 133
+        },
+        {
+          "ageGroup": "16-18",
+          "male": 148,
+          "female": 140
+        },
+        {
+          "ageGroup": "19-23",
+          "male": 853,
+          "female": 1122
+        },
+        {
+          "ageGroup": "23-34",
+          "male": 4519,
+          "female": 4647
+        },
+        {
+          "ageGroup": "35-44",
+          "male": 2227,
+          "female": 1561
+        },
+        {
+          "ageGroup": "45-54",
+          "male": 1340,
+          "female": 926
+        },
+        {
+          "ageGroup": "55-64",
+          "male": 721,
+          "female": 612
+        },
+        {
+          "ageGroup": "65-74",
+          "male": 397,
+          "female": 380
+        },
+        {
+          "ageGroup": "75-84",
+          "male": 131,
+          "female": 153
+        },
+        {
+          "ageGroup": "85+",
+          "male": 44,
+          "female": 84
+        }
+      ]
+    },
+    {
+      "year": 2020,
+      "ageGroups": [
+        {
+          "ageGroup": "0-5",
+          "male": 526,
+          "female": 527
+        },
+        {
+          "ageGroup": "6-12",
+          "male": 386,
+          "female": 397
+        },
+        {
+          "ageGroup": "13-15",
+          "male": 146,
+          "female": 143
+        },
+        {
+          "ageGroup": "16-18",
+          "male": 153,
+          "female": 146
+        },
+        {
+          "ageGroup": "19-23",
+          "male": 897,
+          "female": 1112
+        },
+        {
+          "ageGroup": "23-34",
+          "male": 4529,
+          "female": 4600
+        },
+        {
+          "ageGroup": "35-44",
+          "male": 2207,
+          "female": 1575
+        },
+        {
+          "ageGroup": "45-54",
+          "male": 1347,
+          "female": 921
+        },
+        {
+          "ageGroup": "55-64",
+          "male": 748,
+          "female": 624
+        },
+        {
+          "ageGroup": "65-74",
+          "male": 401,
+          "female": 399
+        },
+        {
+          "ageGroup": "75-84",
+          "male": 142,
+          "female": 166
+        },
+        {
+          "ageGroup": "85+",
+          "male": 39,
+          "female": 62
+        }
+      ]
+    },
+    {
+      "year": 2021,
+      "ageGroups": [
+        {
+          "ageGroup": "0-5",
+          "male": 515,
+          "female": 510
+        },
+        {
+          "ageGroup": "6-12",
+          "male": 371,
+          "female": 397
+        },
+        {
+          "ageGroup": "13-15",
+          "male": 143,
+          "female": 145
+        },
+        {
+          "ageGroup": "16-18",
+          "male": 151,
+          "female": 168
+        },
+        {
+          "ageGroup": "19-23",
+          "male": 928,
+          "female": 1176
+        },
+        {
+          "ageGroup": "23-34",
+          "male": 4479,
+          "female": 4603
+        },
+        {
+          "ageGroup": "35-44",
+          "male": 2166,
+          "female": 1560
+        },
+        {
+          "ageGroup": "45-54",
+          "male": 1348,
+          "female": 942
+        },
+        {
+          "ageGroup": "55-64",
+          "male": 773,
+          "female": 655
+        },
+        {
+          "ageGroup": "65-74",
+          "male": 410,
+          "female": 396
+        },
+        {
+          "ageGroup": "75-84",
+          "male": 160,
+          "female": 188
+        },
+        {
+          "ageGroup": "85+",
+          "male": 36,
+          "female": 60
+        }
+      ]
+    },
+    {
+      "year": 2022,
+      "ageGroups": [
+        {
+          "ageGroup": "0-5",
+          "male": 497,
+          "female": 480
+        },
+        {
+          "ageGroup": "6-12",
+          "male": 373,
+          "female": 383
+        },
+        {
+          "ageGroup": "13-15",
+          "male": 145,
+          "female": 150
+        },
+        {
+          "ageGroup": "16-18",
+          "male": 141,
+          "female": 155
+        },
+        {
+          "ageGroup": "19-23",
+          "male": 901,
+          "female": 1152
+        },
+        {
+          "ageGroup": "23-34",
+          "male": 4555,
+          "female": 4715
+        },
+        {
+          "ageGroup": "35-44",
+          "male": 2171,
+          "female": 1588
+        },
+        {
+          "ageGroup": "45-54",
+          "male": 1300,
+          "female": 957
+        },
+        {
+          "ageGroup": "55-64",
+          "male": 807,
+          "female": 653
+        },
+        {
+          "ageGroup": "65-74",
+          "male": 415,
+          "female": 402
+        },
+        {
+          "ageGroup": "75-84",
+          "male": 179,
+          "female": 192
+        },
+        {
+          "ageGroup": "85+",
+          "male": 38,
+          "female": 65
+        }
+      ]
+    },
+    {
+      "year": 2023,
+      "ageGroups": [
+        {
+          "ageGroup": "0-5",
+          "male": 506,
+          "female": 482
+        },
+        {
+          "ageGroup": "6-12",
+          "male": 383,
+          "female": 380
+        },
+        {
+          "ageGroup": "13-15",
+          "male": 145,
+          "female": 156
+        },
+        {
+          "ageGroup": "16-18",
+          "male": 157,
+          "female": 176
+        },
+        {
+          "ageGroup": "19-23",
+          "male": 831,
+          "female": 1066
+        },
+        {
+          "ageGroup": "23-34",
+          "male": 4627,
+          "female": 4762
+        },
+        {
+          "ageGroup": "35-44",
+          "male": 2205,
+          "female": 1645
+        },
+        {
+          "ageGroup": "45-54",
+          "male": 1331,
+          "female": 1017
+        },
+        {
+          "ageGroup": "55-64",
+          "male": 848,
+          "female": 673
+        },
+        {
+          "ageGroup": "65-74",
+          "male": 416,
+          "female": 409
+        },
+        {
+          "ageGroup": "75-84",
+          "male": 209,
+          "female": 209
+        },
+        {
+          "ageGroup": "85+",
+          "male": 37,
+          "female": 64
+        }
+      ]
+    }
+  ],
+  "householdTypes": [
+    {
+      "year": 2017,
+      "households": [
+        {
+          "type": "Par uten hjemmeboende barn",
+          "count": 2486
+        },
+        {
+          "type": "Par med barn",
+          "count": 1148
+        },
+        {
+          "type": "Aleneboende",
+          "count": 10511
+        },
+        {
+          "type": "Enslig forelder med barn",
+          "count": 535
+        },
+        {
+          "type": "Andre husholdninger",
+          "count": 495
+        }
+      ]
+    },
+    {
+      "year": 2018,
+      "households": [
+        {
+          "type": "Par uten hjemmeboende barn",
+          "count": 2510
+        },
+        {
+          "type": "Par med barn",
+          "count": 1154
+        },
+        {
+          "type": "Aleneboende",
+          "count": 10603
+        },
+        {
+          "type": "Enslig forelder med barn",
+          "count": 539
+        },
+        {
+          "type": "Andre husholdninger",
+          "count": 500
+        }
+      ]
+    },
+    {
+      "year": 2019,
+      "households": [
+        {
+          "type": "Par uten hjemmeboende barn",
+          "count": 2527
+        },
+        {
+          "type": "Par med barn",
+          "count": 1166
+        },
+        {
+          "type": "Aleneboende",
+          "count": 10660
+        },
+        {
+          "type": "Enslig forelder med barn",
+          "count": 544
+        },
+        {
+          "type": "Andre husholdninger",
+          "count": 501
+        }
+      ]
+    },
+    {
+      "year": 2020,
+      "households": [
+        {
+          "type": "Par uten hjemmeboende barn",
+          "count": 2524
+        },
+        {
+          "type": "Par med barn",
+          "count": 1160
+        },
+        {
+          "type": "Aleneboende",
+          "count": 10672
+        },
+        {
+          "type": "Enslig forelder med barn",
+          "count": 541
+        },
+        {
+          "type": "Andre husholdninger",
+          "count": 504
+        }
+      ]
+    },
+    {
+      "year": 2021,
+      "households": [
+        {
+          "type": "Par uten hjemmeboende barn",
+          "count": 2840
+        },
+        {
+          "type": "Par med barn",
+          "count": 1053
+        },
+        {
+          "type": "Aleneboende",
+          "count": 8245
+        },
+        {
+          "type": "Enslig forelder med barn",
+          "count": 394
+        },
+        {
+          "type": "Andre husholdninger",
+          "count": 1418
+        }
+      ]
+    },
+    {
+      "year": 2022,
+      "households": [
+        {
+          "type": "Par uten hjemmeboende barn",
+          "count": 2842
+        },
+        {
+          "type": "Par med barn",
+          "count": 1054
+        },
+        {
+          "type": "Aleneboende",
+          "count": 8251
+        },
+        {
+          "type": "Enslig forelder med barn",
+          "count": 394
+        },
+        {
+          "type": "Andre husholdninger",
+          "count": 1419
+        }
+      ]
+    },
+    {
+      "year": 2023,
+      "households": [
+        {
+          "type": "Par uten hjemmeboende barn",
+          "count": 2908
+        },
+        {
+          "type": "Par med barn",
+          "count": 1025
+        },
+        {
+          "type": "Aleneboende",
+          "count": 8334
+        },
+        {
+          "type": "Enslig forelder med barn",
+          "count": 543
+        },
+        {
+          "type": "Andre husholdninger",
+          "count": 183
+        }
+      ]
+    }
+  ],
+  "incomeDistribution": [
+    {
+      "year": 2017,
+      "incomeBrackets": [
+        {
+          "bracket": "0 NOK",
+          "count": 4677.6262828042245
+        },
+        {
+          "bracket": "0 NOK - NOK 100k",
+          "count": 1949.7677374101045
+        },
+        {
+          "bracket": "NOK 100k - NOK 200k",
+          "count": 2123.8101699121244
+        },
+        {
+          "bracket": "NOK 200k - NOK 300k",
+          "count": 1402.7964176150972
+        },
+        {
+          "bracket": "NOK 300k - NOK 400k",
+          "count": 1593.5128358860463
+        },
+        {
+          "bracket": "NOK 400k - NOK 500k",
+          "count": 1940.6942334034165
+        },
+        {
+          "bracket": "NOK 500k - NOK 600k",
+          "count": 1453.387050064008
+        },
+        {
+          "bracket": "NOK 600k - NOK 700k",
+          "count": 539.8001899009982
+        },
+        {
+          "bracket": "NOK 700k - NOK 800k",
+          "count": 327.9521889148059
+        },
+        {
+          "bracket": "NOK 800k - NOK 1 mill.",
+          "count": 285.6113089768514
+        },
+        {
+          "bracket": "NOK 1 mill. - NOK 1,5 mill.",
+          "count": 292.7099089774558
+        },
+        {
+          "bracket": "NOK 1,5 mill.+",
+          "count": 87.71779331148545
+        }
+      ]
+    },
+    {
+      "year": 2018,
+      "incomeBrackets": [
+        {
+          "bracket": "0 NOK",
+          "count": 6532.743091118214
+        },
+        {
+          "bracket": "0 NOK - NOK 100k",
+          "count": 1615.3061095686526
+        },
+        {
+          "bracket": "NOK 100k - NOK 200k",
+          "count": 1684.3553973203072
+        },
+        {
+          "bracket": "NOK 200k - NOK 300k",
+          "count": 1252.2228340134686
+        },
+        {
+          "bracket": "NOK 300k - NOK 400k",
+          "count": 1205.292756669032
+        },
+        {
+          "bracket": "NOK 400k - NOK 500k",
+          "count": 1235.1416894110678
+        },
+        {
+          "bracket": "NOK 500k - NOK 600k",
+          "count": 1757.8098365720095
+        },
+        {
+          "bracket": "NOK 600k - NOK 700k",
+          "count": 1077.3545905545686
+        },
+        {
+          "bracket": "NOK 700k - NOK 800k",
+          "count": 607.1188399128126
+        },
+        {
+          "bracket": "NOK 800k - NOK 1 mill.",
+          "count": 610.5879356522377
+        },
+        {
+          "bracket": "NOK 1 mill. - NOK 1,5 mill.",
+          "count": 356.7834167051085
+        },
+        {
+          "bracket": "NOK 1,5 mill.+",
+          "count": 94.60404422052346
+        }
+      ]
+    },
+    {
+      "year": 2019,
+      "incomeBrackets": [
+        {
+          "bracket": "0 NOK",
+          "count": 1533.298286381572
+        },
+        {
+          "bracket": "0 NOK - NOK 100k",
+          "count": 4114.170258333277
+        },
+        {
+          "bracket": "NOK 100k - NOK 200k",
+          "count": 3162.6844887733114
+        },
+        {
+          "bracket": "NOK 200k - NOK 300k",
+          "count": 2435.549609473121
+        },
+        {
+          "bracket": "NOK 300k - NOK 400k",
+          "count": 2571.395146186078
+        },
+        {
+          "bracket": "NOK 400k - NOK 500k",
+          "count": 1975.3856798380934
+        },
+        {
+          "bracket": "NOK 500k - NOK 600k",
+          "count": 1215.2382110590954
+        },
+        {
+          "bracket": "NOK 600k - NOK 700k",
+          "count": 706.8351593161873
+        },
+        {
+          "bracket": "NOK 700k - NOK 800k",
+          "count": 403.3335889528038
+        },
+        {
+          "bracket": "NOK 800k - NOK 1 mill.",
+          "count": 471.3523761850527
+        },
+        {
+          "bracket": "NOK 1 mill. - NOK 1,5 mill.",
+          "count": 301.72695809451426
+        },
+        {
+          "bracket": "NOK 1,5 mill.+",
+          "count": 121.80479951101853
+        }
+      ]
+    },
+    {
+      "year": 2020,
+      "incomeBrackets": [
+        {
+          "bracket": "0 NOK",
+          "count": 1620.6763468407567
+        },
+        {
+          "bracket": "0 NOK - NOK 100k",
+          "count": 4328.824986621904
+        },
+        {
+          "bracket": "NOK 100k - NOK 200k",
+          "count": 3144.2700190021483
+        },
+        {
+          "bracket": "NOK 200k - NOK 300k",
+          "count": 2393.4397281992387
+        },
+        {
+          "bracket": "NOK 300k - NOK 400k",
+          "count": 2504.193497614597
+        },
+        {
+          "bracket": "NOK 400k - NOK 500k",
+          "count": 1920.3241185652873
+        },
+        {
+          "bracket": "NOK 500k - NOK 600k",
+          "count": 1185.663918984416
+        },
+        {
+          "bracket": "NOK 600k - NOK 700k",
+          "count": 690.4551246031313
+        },
+        {
+          "bracket": "NOK 700k - NOK 800k",
+          "count": 394.04021027400603
+        },
+        {
+          "bracket": "NOK 800k - NOK 1 mill.",
+          "count": 462.7296143724232
+        },
+        {
+          "bracket": "NOK 1 mill. - NOK 1,5 mill.",
+          "count": 296.59683020425
+        },
+        {
+          "bracket": "NOK 1,5 mill.+",
+          "count": 119.6823805809231
+        }
+      ]
+    },
+    {
+      "year": 2021,
+      "incomeBrackets": [
+        {
+          "bracket": "0 NOK",
+          "count": 2071.5066069435557
+        },
+        {
+          "bracket": "0 NOK - NOK 100k",
+          "count": 4852.350438701117
+        },
+        {
+          "bracket": "NOK 100k - NOK 200k",
+          "count": 3015.736390963438
+        },
+        {
+          "bracket": "NOK 200k - NOK 300k",
+          "count": 2282.6174351252826
+        },
+        {
+          "bracket": "NOK 300k - NOK 400k",
+          "count": 2263.31928855657
+        },
+        {
+          "bracket": "NOK 400k - NOK 500k",
+          "count": 1768.762934937701
+        },
+        {
+          "bracket": "NOK 500k - NOK 600k",
+          "count": 1098.6033778222943
+        },
+        {
+          "bracket": "NOK 600k - NOK 700k",
+          "count": 639.4474299051249
+        },
+        {
+          "bracket": "NOK 700k - NOK 800k",
+          "count": 375.25039292583995
+        },
+        {
+          "bracket": "NOK 800k - NOK 1 mill.",
+          "count": 434.95598263072304
+        },
+        {
+          "bracket": "NOK 1 mill. - NOK 1,5 mill.",
+          "count": 280.5405696752308
+        },
+        {
+          "bracket": "NOK 1,5 mill.+",
+          "count": 117.09310599387551
+        }
+      ]
+    },
+    {
+      "year": 2022,
+      "incomeBrackets": [
+        {
+          "bracket": "0 NOK",
+          "count": 1871.7025918862137
+        },
+        {
+          "bracket": "0 NOK - NOK 100k",
+          "count": 2870.7034678971327
+        },
+        {
+          "bracket": "NOK 100k - NOK 200k",
+          "count": 2362.930788257744
+        },
+        {
+          "bracket": "NOK 200k - NOK 300k",
+          "count": 2082.7943288557576
+        },
+        {
+          "bracket": "NOK 300k - NOK 400k",
+          "count": 2293.8409925126975
+        },
+        {
+          "bracket": "NOK 400k - NOK 500k",
+          "count": 2157.2429486255587
+        },
+        {
+          "bracket": "NOK 500k - NOK 600k",
+          "count": 1445.510308484372
+        },
+        {
+          "bracket": "NOK 600k - NOK 700k",
+          "count": 916.4304777729269
+        },
+        {
+          "bracket": "NOK 700k - NOK 800k",
+          "count": 606.9634214904422
+        },
+        {
+          "bracket": "NOK 800k - NOK 1 mill.",
+          "count": 1091.4082681546313
+        },
+        {
+          "bracket": "NOK 1 mill. - NOK 1,5 mill.",
+          "count": 110.67580755562086
+        },
+        {
+          "bracket": "NOK 1,5 mill.+",
+          "count": 123.68033278131418
+        }
+      ]
+    },
+    {
+      "year": 2023,
+      "incomeBrackets": [
+        {
+          "bracket": "0 NOK",
+          "count": 2802.73723295871
+        },
+        {
+          "bracket": "0 NOK - NOK 100k",
+          "count": 2950.3896419323546
+        },
+        {
+          "bracket": "NOK 100k - NOK 200k",
+          "count": 2444.0050175945485
+        },
+        {
+          "bracket": "NOK 200k - NOK 300k",
+          "count": 2235.243211103658
+        },
+        {
+          "bracket": "NOK 300k - NOK 400k",
+          "count": 2484.595881046515
+        },
+        {
+          "bracket": "NOK 400k - NOK 500k",
+          "count": 2445.1537565856543
+        },
+        {
+          "bracket": "NOK 500k - NOK 600k",
+          "count": 1861.1562571319805
+        },
+        {
+          "bracket": "NOK 600k - NOK 700k",
+          "count": 1162.8310234757064
+        },
+        {
+          "bracket": "NOK 700k - NOK 800k",
+          "count": 731.7379241791715
+        },
+        {
+          "bracket": "NOK 800k - NOK 1 mill.",
+          "count": 1379.1928251183235
+        },
+        {
+          "bracket": "NOK 1 mill. - NOK 1,5 mill.",
+          "count": 162.1460516271732
+        },
+        {
+          "bracket": "NOK 1,5 mill.+",
+          "count": 112.38676908826517
+        }
+      ]
+    }
+  ],
+  "buildingTypes": [
+    {
+      "year": 2017,
+      "buildings": [
+        {
+          "type": "Eneboliger",
+          "count": 53
+        },
+        {
+          "type": "Småhus",
+          "count": 32
+        },
+        {
+          "type": "Leilighetsbygg",
+          "count": 719
+        },
+        {
+          "type": "Næringsbygg",
+          "count": 189
+        },
+        {
+          "type": "Andre bygg",
+          "count": 11
+        },
+        {
+          "type": "Hytter",
+          "count": 0
+        }
+      ]
+    },
+    {
+      "year": 2018,
+      "buildings": [
+        {
+          "type": "Eneboliger",
+          "count": 52
+        },
+        {
+          "type": "Småhus",
+          "count": 36
+        },
+        {
+          "type": "Leilighetsbygg",
+          "count": 719
+        },
+        {
+          "type": "Næringsbygg",
+          "count": 192
+        },
+        {
+          "type": "Andre bygg",
+          "count": 11
+        },
+        {
+          "type": "Hytter",
+          "count": 0
+        }
+      ]
+    },
+    {
+      "year": 2019,
+      "buildings": [
+        {
+          "type": "Eneboliger",
+          "count": 53
+        },
+        {
+          "type": "Småhus",
+          "count": 36
+        },
+        {
+          "type": "Leilighetsbygg",
+          "count": 723
+        },
+        {
+          "type": "Næringsbygg",
+          "count": 188
+        },
+        {
+          "type": "Andre bygg",
+          "count": 14
+        },
+        {
+          "type": "Hytter",
+          "count": 0
+        }
+      ]
+    },
+    {
+      "year": 2020,
+      "buildings": [
+        {
+          "type": "Eneboliger",
+          "count": 55
+        },
+        {
+          "type": "Småhus",
+          "count": 36
+        },
+        {
+          "type": "Leilighetsbygg",
+          "count": 726
+        },
+        {
+          "type": "Næringsbygg",
+          "count": 188
+        },
+        {
+          "type": "Andre bygg",
+          "count": 13
+        },
+        {
+          "type": "Hytter",
+          "count": 0
+        }
+      ]
+    },
+    {
+      "year": 2021,
+      "buildings": [
+        {
+          "type": "Eneboliger",
+          "count": 56
+        },
+        {
+          "type": "Småhus",
+          "count": 38
+        },
+        {
+          "type": "Leilighetsbygg",
+          "count": 733
+        },
+        {
+          "type": "Næringsbygg",
+          "count": 185
+        },
+        {
+          "type": "Andre bygg",
+          "count": 13
+        },
+        {
+          "type": "Hytter",
+          "count": 0
+        }
+      ]
+    },
+    {
+      "year": 2022,
+      "buildings": [
+        {
+          "type": "Eneboliger",
+          "count": 57
+        },
+        {
+          "type": "Småhus",
+          "count": 38
+        },
+        {
+          "type": "Leilighetsbygg",
+          "count": 736
+        },
+        {
+          "type": "Næringsbygg",
+          "count": 184
+        },
+        {
+          "type": "Andre bygg",
+          "count": 11
+        },
+        {
+          "type": "Hytter",
+          "count": 0
+        }
+      ]
+    },
+    {
+      "year": 2023,
+      "buildings": [
+        {
+          "type": "Eneboliger",
+          "count": 58
+        },
+        {
+          "type": "Småhus",
+          "count": 38
+        },
+        {
+          "type": "Leilighetsbygg",
+          "count": 737
+        },
+        {
+          "type": "Næringsbygg",
+          "count": 182
+        },
+        {
+          "type": "Andre bygg",
+          "count": 10
+        },
+        {
+          "type": "Hytter",
+          "count": 0
+        }
+      ]
+    }
+  ],
+  "medianIncomeByHousehold": [
+    {
+      "year": 2015,
+      "medianIncomes": [
+        {
+          "householdType": "Alle husholdninger",
+          "medianIncome": 370857.2092386642
+        },
+        {
+          "householdType": "Par uten hjemmeboende barn",
+          "medianIncome": 609889.3208728931
+        },
+        {
+          "householdType": "Par med barn",
+          "medianIncome": 739712.7855488593
+        },
+        {
+          "householdType": "Aleneboende",
+          "medianIncome": 293100.95395815955
+        },
+        {
+          "householdType": "Enslig forelder med barn",
+          "medianIncome": 361420.7692614592
+        },
+        {
+          "householdType": "Andre husholdninger",
+          "medianIncome": 563945.040818784
+        }
+      ]
+    },
+    {
+      "year": 2016,
+      "medianIncomes": [
+        {
+          "householdType": "Alle husholdninger",
+          "medianIncome": 380481.7411907507
+        },
+        {
+          "householdType": "Par uten hjemmeboende barn",
+          "medianIncome": 619719.127342153
+        },
+        {
+          "householdType": "Par med barn",
+          "medianIncome": 754938.9581164939
+        },
+        {
+          "householdType": "Aleneboende",
+          "medianIncome": 301946.79534771683
+        },
+        {
+          "householdType": "Enslig forelder med barn",
+          "medianIncome": 374358.3821200666
+        },
+        {
+          "householdType": "Andre husholdninger",
+          "medianIncome": 573721.573625235
+        }
+      ]
+    },
+    {
+      "year": 2017,
+      "medianIncomes": [
+        {
+          "householdType": "Alle husholdninger",
+          "medianIncome": 391234.8772532952
+        },
+        {
+          "householdType": "Par uten hjemmeboende barn",
+          "medianIncome": 646140.1964462206
+        },
+        {
+          "householdType": "Par med barn",
+          "medianIncome": 775027.0728892308
+        },
+        {
+          "householdType": "Aleneboende",
+          "medianIncome": 309726.33292490814
+        },
+        {
+          "householdType": "Enslig forelder med barn",
+          "medianIncome": 384276.51465699234
+        },
+        {
+          "householdType": "Andre husholdninger",
+          "medianIncome": 598791.7381678296
+        }
+      ]
+    },
+    {
+      "year": 2018,
+      "medianIncomes": [
+        {
+          "householdType": "Alle husholdninger",
+          "medianIncome": 406931.0018049295
+        },
+        {
+          "householdType": "Par uten hjemmeboende barn",
+          "medianIncome": 673133.2218488391
+        },
+        {
+          "householdType": "Par med barn",
+          "medianIncome": 822509.6805975906
+        },
+        {
+          "householdType": "Aleneboende",
+          "medianIncome": 322657.86351014295
+        },
+        {
+          "householdType": "Enslig forelder med barn",
+          "medianIncome": 397758.3099999041
+        },
+        {
+          "householdType": "Andre husholdninger",
+          "medianIncome": 615080.9226727585
+        }
+      ]
+    },
+    {
+      "year": 2019,
+      "medianIncomes": [
+        {
+          "householdType": "Alle husholdninger",
+          "medianIncome": 425207.8466895603
+        },
+        {
+          "householdType": "Par uten hjemmeboende barn",
+          "medianIncome": 716232.399247172
+        },
+        {
+          "householdType": "Par med barn",
+          "medianIncome": 862036.1982706477
+        },
+        {
+          "householdType": "Aleneboende",
+          "medianIncome": 339408.83170577313
+        },
+        {
+          "householdType": "Enslig forelder med barn",
+          "medianIncome": 414455.3273096876
+        },
+        {
+          "householdType": "Andre husholdninger",
+          "medianIncome": 630034.4377233544
+        }
+      ]
+    },
+    {
+      "year": 2020,
+      "medianIncomes": [
+        {
+          "householdType": "Alle husholdninger",
+          "medianIncome": 438092.0568796844
+        },
+        {
+          "householdType": "Par uten hjemmeboende barn",
+          "medianIncome": 738960.0968916073
+        },
+        {
+          "householdType": "Par med barn",
+          "medianIncome": 911367.6159602128
+        },
+        {
+          "householdType": "Aleneboende",
+          "medianIncome": 353426.78838791756
+        },
+        {
+          "householdType": "Enslig forelder med barn",
+          "medianIncome": 425883.4787997278
+        },
+        {
+          "householdType": "Andre husholdninger",
+          "medianIncome": 656716.2059853054
+        }
+      ]
+    },
+    {
+      "year": 2021,
+      "medianIncomes": [
+        {
+          "householdType": "Alle husholdninger",
+          "medianIncome": 451090.61524383863
+        },
+        {
+          "householdType": "Par uten hjemmeboende barn",
+          "medianIncome": 773593.5889032037
+        },
+        {
+          "householdType": "Par med barn",
+          "medianIncome": 952447.7694453088
+        },
+        {
+          "householdType": "Aleneboende",
+          "medianIncome": 358920.11192147376
+        },
+        {
+          "householdType": "Enslig forelder med barn",
+          "medianIncome": 432286.6521515871
+        }
+      ]
+    },
+    {
+      "year": 2022,
+      "medianIncomes": [
+        {
+          "householdType": "Alle husholdninger",
+          "medianIncome": 482165.8132436049
+        },
+        {
+          "householdType": "Par uten hjemmeboende barn",
+          "medianIncome": 820847.2382750654
+        },
+        {
+          "householdType": "Par med barn",
+          "medianIncome": 1011447.3402148662
+        },
+        {
+          "householdType": "Aleneboende",
+          "medianIncome": 386159.4870184936
+        },
+        {
+          "householdType": "Enslig forelder med barn",
+          "medianIncome": 467988.7934405535
+        }
+      ]
+    }
+  ]
+}
