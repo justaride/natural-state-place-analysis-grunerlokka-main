@@ -1,3 +1,4 @@
+import Image from 'next/image';
 import Container from '@/components/ui/Container';
 import { Card, CardHeader, CardTitle, CardContent } from '@/components/ui/Card';
 import NaturalStateCard from '@/components/ui/NaturalStateCard';
@@ -10,9 +11,14 @@ export const metadata = {
 export default function OmProsjektetPage() {
   return (
     <Container>
-      <h1 className="mb-8 text-4xl font-bold text-natural-forest">
-        Om Prosjektet
-      </h1>
+      <div className="mb-12">
+        <h1 className="mb-4 text-4xl font-bold text-natural-forest">
+          Om Prosjektet
+        </h1>
+        <p className="text-xl text-gray-600">
+          Natural State Place Analysis for Grünerløkka 2025
+        </p>
+      </div>
 
       <div className="grid gap-8">
         {/* Purpose - Full Width */}
@@ -81,8 +87,72 @@ export default function OmProsjektetPage() {
           </Card>
         </div>
 
-        {/* Natural State Card - Full Width */}
-        <NaturalStateCard />
+        {/* Natural State Information Section */}
+        <div className="my-8">
+          <h2 className="mb-8 text-center text-3xl font-bold text-natural-forest">
+            Om Natural State
+          </h2>
+
+          {/* Natural State Card - Full Width */}
+          <NaturalStateCard />
+
+          {/* Additional Natural State Info */}
+          <div className="mt-8 grid gap-6 md:grid-cols-3">
+            <Card>
+              <CardHeader>
+                <CardTitle className="text-lg">Visjon</CardTitle>
+              </CardHeader>
+              <CardContent>
+                <p className="text-sm text-gray-600">
+                  Vi arbeider for en fremtid hvor byutvikling skjer i harmoni med naturen og skaper varige verdier for samfunn, miljø og økonomi.
+                </p>
+              </CardContent>
+            </Card>
+
+            <Card>
+              <CardHeader>
+                <CardTitle className="text-lg">Metodikk</CardTitle>
+              </CardHeader>
+              <CardContent>
+                <p className="text-sm text-gray-600">
+                  Vi kombinerer dyptgående analyser, sirkulære prinsipper og medvirkningsprosesser for å skape helhetlige og bærekraftige løsninger.
+                </p>
+              </CardContent>
+            </Card>
+
+            <Card>
+              <CardHeader>
+                <CardTitle className="text-lg">Ekspertise</CardTitle>
+              </CardHeader>
+              <CardContent>
+                <p className="text-sm text-gray-600">
+                  10+ ansatte med tverrfaglig kompetanse innen økonomi, arkitektur, bærekraft, planlegging og kommunikasjon.
+                </p>
+              </CardContent>
+            </Card>
+          </div>
+
+          {/* Market Sphere Visual */}
+          <div className="mt-12 rounded-xl bg-gradient-to-br from-natural-forest/5 to-natural-sage/5 p-8">
+            <h3 className="mb-6 text-center text-2xl font-bold text-natural-forest">
+              Natural State Metoden
+            </h3>
+            <div className="mx-auto max-w-2xl">
+              <div className="relative aspect-square w-full overflow-hidden rounded-lg">
+                <Image
+                  src="/images/branding/market-sphere.png"
+                  alt="Natural State Metoden"
+                  fill
+                  className="object-contain"
+                  sizes="(max-width: 768px) 100vw, 800px"
+                />
+              </div>
+              <p className="mt-6 text-center text-sm text-gray-600">
+                Natural State Metoden integrerer økonomiske, miljømessige og sosiale verdier i stedsutviklingsprosjekter.
+              </p>
+            </div>
+          </div>
+        </div>
       </div>
     </Container>
   );

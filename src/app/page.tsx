@@ -1,4 +1,5 @@
 import Link from 'next/link';
+import Image from 'next/image';
 import Container from '@/components/ui/Container';
 import { Card, CardHeader, CardTitle, CardContent } from '@/components/ui/Card';
 import Button from '@/components/ui/Button';
@@ -7,51 +8,76 @@ import NaturalStateCard from '@/components/ui/NaturalStateCard';
 export default function Home() {
   return (
     <>
-      {/* Hero Section */}
-      <section className="bg-gradient-to-br from-natural-forest to-natural-sage py-20 text-white">
-        <Container>
-          <div className="max-w-3xl">
-            <div className="mb-4 inline-block rounded-full bg-white/20 px-4 py-1 text-sm font-medium backdrop-blur-sm">
-              Natural State Place Analysis 2025
+      {/* Hero Section with Banner */}
+      <section className="relative overflow-hidden">
+        {/* Background Banner Image */}
+        <div className="relative h-[500px] w-full">
+          <Image
+            src="/images/areas/grunerlokka-banner.webp"
+            alt="Grünerløkka"
+            fill
+            className="object-cover"
+            priority
+            sizes="100vw"
+          />
+          <div className="absolute inset-0 bg-gradient-to-r from-black/70 via-black/50 to-transparent" />
+        </div>
+
+        {/* Content Overlay */}
+        <div className="absolute inset-0 flex items-center">
+          <Container className="relative z-10">
+            <div className="max-w-3xl">
+              <div className="mb-6 flex items-center gap-3">
+                <Image
+                  src="/images/branding/ns-logo.webp"
+                  alt="Natural State"
+                  width={64}
+                  height={64}
+                  className="h-16 w-auto"
+                />
+                <div className="inline-block rounded-full bg-white/20 px-4 py-1 text-sm font-medium text-white backdrop-blur-sm">
+                  Natural State Place Analysis 2025
+                </div>
+              </div>
+              <h1 className="mb-6 text-5xl font-bold leading-tight text-white">
+                Grünerløkka i Forandring
+              </h1>
+              <p className="mb-8 text-xl text-white/90">
+                Omfattende stedsanalyser av Grünerløkka gjennom hele 2025.
+                Utforsk månedlige utviklingstrender, sammenlign med andre bydeler,
+                analyser hendelsers innvirkning, og følg mediadekningen av området.
+              </p>
+              <div className="flex flex-wrap gap-4">
+                <Link href="/analyser">
+                  <Button
+                    size="lg"
+                    className="bg-white text-natural-forest hover:bg-white/90"
+                  >
+                    Utforsk Analyser
+                  </Button>
+                </Link>
+                <Link href="/sammenligninger">
+                  <Button
+                    size="lg"
+                    variant="outline"
+                    className="border-white text-white hover:bg-white hover:text-natural-forest"
+                  >
+                    Se Sammenligninger
+                  </Button>
+                </Link>
+                <Link href="/om-prosjektet">
+                  <Button
+                    size="lg"
+                    variant="outline"
+                    className="border-white text-white hover:bg-white hover:text-natural-forest"
+                  >
+                    Om Prosjektet
+                  </Button>
+                </Link>
+              </div>
             </div>
-            <h1 className="mb-6 text-5xl font-bold leading-tight">
-              Grünerløkka i Forandring
-            </h1>
-            <p className="mb-8 text-xl text-white/90">
-              Omfattende stedsanalyser av Grünerløkka gjennom hele 2025.
-              Utforsk månedlige utviklingstrender, sammenlign med andre bydeler,
-              analyser hendelsers innvirkning, og følg mediadekningen av området.
-            </p>
-            <div className="flex flex-wrap gap-4">
-              <Link href="/analyser">
-                <Button
-                  size="lg"
-                  className="bg-white text-natural-forest hover:bg-white/90"
-                >
-                  Utforsk Analyser
-                </Button>
-              </Link>
-              <Link href="/sammenligninger">
-                <Button
-                  size="lg"
-                  variant="outline"
-                  className="border-white text-white hover:bg-white hover:text-natural-forest"
-                >
-                  Se Sammenligninger
-                </Button>
-              </Link>
-              <Link href="/om-prosjektet">
-                <Button
-                  size="lg"
-                  variant="outline"
-                  className="border-white text-white hover:bg-white hover:text-natural-forest"
-                >
-                  Om Prosjektet
-                </Button>
-              </Link>
-            </div>
-          </div>
-        </Container>
+          </Container>
+        </div>
       </section>
 
       {/* Development Notice */}
