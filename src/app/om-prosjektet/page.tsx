@@ -49,10 +49,11 @@ export default function OmProsjektetPage() {
             </CardContent>
           </Card>
 
-          <Card id="kontakt">
-            <CardHeader>
-              <CardTitle>Kontakt</CardTitle>
-            </CardHeader>
+          <div id="kontakt">
+            <Card>
+              <CardHeader>
+                <CardTitle>Kontakt</CardTitle>
+              </CardHeader>
             <CardContent>
               <p className="mb-4 text-gray-600">
                 For spørsmål, tilbakemeldinger eller forslag, kontakt Natural State:
@@ -84,7 +85,8 @@ export default function OmProsjektetPage() {
                 </a>
               </div>
             </CardContent>
-          </Card>
+            </Card>
+          </div>
         </div>
 
         {/* Natural State Information Section */}
