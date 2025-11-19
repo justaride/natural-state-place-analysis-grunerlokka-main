@@ -6,11 +6,22 @@ export type AnalysisType = 'monthly' | 'comparative' | 'event-impact' | 'timelin
 export type PeriodType = 'month' | 'quarter' | 'year' | 'custom';
 
 /**
+ * Highlight item for key metrics
+ */
+export interface Highlight {
+  title: string;
+  value: string;
+  description: string;
+}
+
+/**
  * Main place analysis interface
  */
 export interface PlaceAnalysis {
   id: string; // e.g., "2025-01-january" or "comparison-lokka-vs-grunland"
   title: string;
+  description?: string;
+  highlights?: Highlight[];
   analysisType: AnalysisType;
   period: TimePeriod;
   area: AreaDefinition;
@@ -41,6 +52,7 @@ export interface AreaDefinition {
   id: string; // e.g., "grunerlokka"
   name: string; // e.g., "Grunerløkka"
   displayName: string; // e.g., "Grünerløkka, Oslo"
+  areaSize?: string; // e.g., "1.14 km²"
   type: 'district' | 'neighborhood' | 'custom';
   coordinates?: {
     lat: number;
@@ -273,6 +285,8 @@ export interface MediaReference {
 export interface AnalysisMetadata {
   opprettet: string; // ISO date
   sistOppdatert: string; // ISO date
+  createdAt?: string; // ISO date (alternative naming)
+  updatedAt?: string; // ISO date (alternative naming)
   status: 'utkast' | 'publisert' | 'arkivert';
   versjon: number;
   forfatter?: string;

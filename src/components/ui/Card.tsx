@@ -4,11 +4,13 @@ interface CardProps {
   children: React.ReactNode;
   className?: string;
   hover?: boolean;
+  id?: string;
 }
 
-export function Card({ children, className, hover = false }: CardProps) {
+export function Card({ children, className, hover = false, id }: CardProps) {
   return (
     <div
+      id={id}
       className={cn(
         'rounded-lg border border-gray-200 bg-white p-6 shadow-soft',
         hover && 'transition-all hover:shadow-medium hover:-translate-y-1',

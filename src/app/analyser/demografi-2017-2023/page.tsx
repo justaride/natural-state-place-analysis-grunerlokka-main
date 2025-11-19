@@ -314,7 +314,7 @@ export default async function DemografiPage() {
         {/* Footer */}
         <div className="mt-12 text-center text-sm text-gray-500">
           Datakilder: {analysis.plaaceData?.datakilder?.join(', ') || 'Plaace.ai, SSB'} | Oppdatert:{' '}
-          {new Date(analysis.metadata.sistOppdatert || analysis.metadata.createdAt).toLocaleDateString('nb-NO')}
+          {new Date(analysis.metadata.sistOppdatert || analysis.metadata.updatedAt || analysis.metadata.createdAt || analysis.metadata.opprettet).toLocaleDateString('nb-NO')}
         </div>
       </Container>
     </>
